@@ -1,4 +1,4 @@
 ### MsiLib  
-A simple C# style library for modifying MSI Files
+A simple C# library for editing the property table in MSI Files
 
 License: MIT http://www.opensource.org/licenses/mit-license.php
